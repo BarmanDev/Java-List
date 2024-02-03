@@ -50,3 +50,4 @@ public class DaysOfWeek {
     public void clearList() {
         daysOfWeek.clear();
     }
+}
